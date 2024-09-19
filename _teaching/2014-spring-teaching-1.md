@@ -8,4 +8,3 @@ date:
 location: ""
 ---
 
-Not teaching in the current semester.
