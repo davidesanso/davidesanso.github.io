@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Davide Sansone - Personal Webpage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Davide Sansone"
 description              : &description "PhD Candidate"
 url                      : "https://davidesanso.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "academicpages/davidesanso.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Economics"
+  name             : "Davide Sansone"
+  pronouns         : # example: "he/him"  
+  bio              : "PhD Candidate in Economics - Working on Environmental & Behavioural Economics, in the end it's all Political Economy"
   location         : "Paris (France)"
   employer         : "Sciences Po"
   uri              : # URL
@@ -129,7 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "davide2sansone"
 facebook:
   username               :
   app_id                 :
