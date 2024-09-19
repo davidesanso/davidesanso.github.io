@@ -9,6 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+You can find my updated CV here 'http://academicpages.github.io/files/paper1.pdf' 
 
