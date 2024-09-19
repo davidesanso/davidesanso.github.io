@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my updated CV [here](http://academicpages.github.io/files/CV_DavSan_Sep24.pdf)
+You can find my updated CV [here](http://davidesanso.github.io/files/CV_DavSan_Sep24.pdf)
