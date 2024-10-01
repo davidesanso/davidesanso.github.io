@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am first-year PhD Candidate in Economics at Sciences Po (Paris, France), under the supervision of Prof. Emeric Henry. 
+<p>I am a first-year PhD Candidate in Economics at <a href="https://www.sciencespo.fr/department-economics/" target="_blank">Sciences Po</a> (Paris, France), under the supervision of <a href="https://sites.google.com/site/emericmlhenry/home" target="_blank">Prof. Emeric Henry</a>.</p>
 
-I study topics related to Behavioural Economics and Political Economy, with a focus on climate change. More specifically, I am interested in the determinants of environmental beliefs, and how these are shaped by political and media narratives. 
+<p>I study topics related to Behavioural Economics and Political Economy, with a focus on climate change. More specifically, I am interested in the determinants of environmental beliefs, and how these are shaped by political and media narratives.</p>
 
-You can reach out to me at: davide.sansone@sciencespo.fr
+<p>You can reach out to me at: <a href="mailto:davide.sansone@sciencespo.fr">davide.sansone@sciencespo.fr</a></p>
