@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile_paris.png"
   name             : "Davide Sansone"
-  pronouns         : # example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "PhD Candidate in Economics"
   location         : "Paris (France)"
   employer         : "Sciences Po"
