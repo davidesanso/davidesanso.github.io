@@ -12,3 +12,13 @@ redirect_from:
 <p>I study topics related to Behavioural Economics and Political Economy, with a focus on climate change. More specifically, I am interested in the determinants of environmental beliefs, and how these are shaped by political and media narratives.</p>
 
 <p>You can reach out to me at: <a href="mailto:davide.sansone@sciencespo.fr">davide.sansone@sciencespo.fr</a></p>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9DCPPC54G3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9DCPPC54G3');
+</script>
