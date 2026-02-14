@@ -11,5 +11,5 @@ redirect_from:
 
 <p>I study topics related to Environmental and Behavioural Economics. More specifically, I am interested in the determinants of environmental action. </p>
 
-<p>You can reach out to me at: <a href="mailto:davide.sansone@sciencespo.fr">davide.sansone@sciencespo.fr</a></p>
+<p>Feel free to reach out: <a href="mailto:davide.sansone@sciencespo.fr">davide.sansone@sciencespo.fr</a></p>
 
