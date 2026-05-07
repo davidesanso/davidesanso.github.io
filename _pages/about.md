@@ -11,5 +11,7 @@ redirect_from:
 
 <p>I study topics related to Environmental and Behavioural Economics. More specifically, I am interested in the determinants of environmental action. </p>
 
+<p>I am also a Research Affiliate at the <a href="https://www.sciencespo.fr/liepp/en/" target="_blank">LIEPP</a>. </p>
+
 <p>Feel free to reach out: <a href="mailto:davide.sansone@sciencespo.fr">davide.sansone@sciencespo.fr</a></p>
 
