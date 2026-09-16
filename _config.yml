@@ -21,7 +21,7 @@ repository               : "davidesanso/davidesanso.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_ind.png"
+  avatar           : "profile_ind_square.jpg"
   name             : "Davide Sansone"
   pronouns         : "he/him"  
   bio              : "PhD Candidate in Economics"
